@@ -1,4 +1,4 @@
-module github.com/safwentrabelsi/json-rpc-proxy
+module github.com/safwentrabelsi/tx-json-rpc-server
 
 go 1.19
 

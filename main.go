@@ -7,9 +7,9 @@ import (
 	"syscall"
 
 	"github.com/joho/godotenv"
-	"github.com/safwentrabelsi/json-rpc-proxy/config"
-	"github.com/safwentrabelsi/json-rpc-proxy/ethclient"
-	"github.com/safwentrabelsi/json-rpc-proxy/rpc"
+	"github.com/safwentrabelsi/tx-json-rpc-server/config"
+	"github.com/safwentrabelsi/tx-json-rpc-server/ethclient"
+	"github.com/safwentrabelsi/tx-json-rpc-server/rpc"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -13,8 +13,8 @@ import (
 	"time"
 
 	ethTypes "github.com/ethereum/go-ethereum/core/types"
-	"github.com/safwentrabelsi/json-rpc-proxy/config"
-	"github.com/safwentrabelsi/json-rpc-proxy/types"
+	"github.com/safwentrabelsi/tx-json-rpc-server/config"
+	"github.com/safwentrabelsi/tx-json-rpc-server/types"
 
 	log "github.com/sirupsen/logrus"
 )

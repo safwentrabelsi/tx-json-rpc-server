@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/safwentrabelsi/json-rpc-proxy/types"
+	"github.com/safwentrabelsi/tx-json-rpc-server/types"
 	"github.com/stretchr/testify/require"
 )
 

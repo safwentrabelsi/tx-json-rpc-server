@@ -31,7 +31,7 @@ Additional configuration options are available in this file.
 You can build and run the project with this command:
 
 ```
-go build . && ./json-rpc-proxy
+go build . && ./tx-json-rpc-server
 ```
 
 ## Testing
